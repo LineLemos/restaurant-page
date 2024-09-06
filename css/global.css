@@ -15,11 +15,11 @@ h3,
 h4,
 h5,
 h6 {
-    color: #333;
+color: rgb(61, 18, 1);
 }
 
 p {
-    color: #70747a;
+    color: rgb(87, 26, 2);
 }
 
 a {
@@ -32,4 +32,8 @@ textarea,
 a {
     border: 0;
     outline: none;
+}
+
+body{
+    background-color: #faf3dc;
 }
